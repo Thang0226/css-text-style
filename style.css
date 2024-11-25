@@ -1,0 +1,17 @@
+body {
+    width: 70%;
+}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+}
+span.bold {
+    font-weight: bold;
+}
+span.blue {
+    color: blue;
+}
